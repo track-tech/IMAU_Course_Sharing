@@ -20,6 +20,8 @@ Tips:
 
 如想保证资源完整性，请上传包含网盘等第三方资源连接的说明文档。
 
+Discussions已开通，欢迎交流灌水~
+
 ## 目录|Index
 
 - [内农大课程攻略共享计划|IMAU_Course_Sharing](#内农大课程攻略共享计划imau_course_sharing)

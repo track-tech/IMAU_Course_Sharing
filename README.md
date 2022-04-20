@@ -1,8 +1,6 @@
 # 内农大课程攻略共享计划|IMAU_Course_Sharing
 
-一次在Github上的闲逛让我发现了浙大的课程攻略计划，试着搜索了一下类似的项目，发现很多学校都有这样的非官方公共项目，也
-
-就此诞生了想创建内农大课程攻略的想法。传承，是一个永恒不变的话题，我希望这个项目可以帮到你。
+一次在Github上的闲逛让我发现了浙大的课程攻略计划，试着搜索了一下类似的项目，发现很多学校都有这样的非官方公共项目，也就此诞生了想创建内农大课程攻略的想法。传承，是一个永恒不变的话题，我希望这个项目可以帮到你。
 
 --2022-4-20-Tracker--
 
@@ -24,7 +22,22 @@ Tips:
 
 ## 目录|Index
 
-[TOC]
+- [内农大课程攻略共享计划|IMAU_Course_Sharing](#内农大课程攻略共享计划imau_course_sharing)
+  - [目录|Index](#目录index)
+  - [前言|Preface](#前言preface)
+  - [特性|Features](#特性features)
+  - [平台|Platform](#平台platform)
+  - [下载方法 | Download](#下载方法--download)
+    - [1. 网页下载](#1-网页下载)
+    - [2. clone 全仓库](#2-clone-全仓库)
+    - [3. DownGit](#3-downgit)
+    - [4. GitZip for github](#4-gitzip-for-github)
+  - [贡献|Contribute](#贡献contribute)
+    - [操作方法|Method](#操作方法method)
+    - [提醒|Tips](#提醒tips)
+    - [警告|Warning](#警告warning)
+  - [许可|License](#许可license)
+  - [参考项目|Project](#参考项目project)
 
 ## 前言|Preface
 

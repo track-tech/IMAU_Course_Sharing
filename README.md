@@ -55,7 +55,7 @@ Discussions已开通，欢迎交流灌水~
 
 我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 
->引用自[浙江大学课程攻略计划]([Salensoft/thu-cst-cracker: 清华大学计算机系课程攻略 (github.com)](https://github.com/Salensoft/thu-cst-cracker))
+>引用自[浙江大学课程攻略计划](https://github.com/QSCTech/zju-icicles))
 
 ## 特性|Features
 

@@ -22,7 +22,7 @@ Tips:
 
 Discussions已开通，欢迎交流灌水~
 
-## 目录|Index
+## 目录 | Index
 
 - [内农大课程攻略共享计划|IMAU_Course_Sharing](#内农大课程攻略共享计划imau_course_sharing)
   - [目录|Index](#目录index)
@@ -41,7 +41,7 @@ Discussions已开通，欢迎交流灌水~
   - [许可|License](#许可license)
   - [参考项目|Project](#参考项目project)
 
-## 前言|Preface
+## 前言 | Preface
 
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
@@ -57,14 +57,14 @@ Discussions已开通，欢迎交流灌水~
 
 >引用自[浙江大学课程攻略计划](https://github.com/QSCTech/zju-icicles))
 
-## 特性|Features
+## 特性 | Features
 
 本项目至今为止收录了以下内容：
 
 
 
 
-## 平台|Platform
+## 平台 | Platform
 
 为什么采用 GitHub 项目作为平台呢？我有以下一些考虑。
 
@@ -111,7 +111,7 @@ $ git clone --depth=1 https://github.com/hewei2001/HITSZ-OpenCS
 
 
 
-## 贡献|Contribute
+## 贡献 | Contribute
 
 **欢迎贡献！**
 
@@ -135,14 +135,14 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 2. 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
 
-### 提醒|Tips
+### 提醒 | Tips
 
 有些朋友在提交 PR 的时候可能会注意到自己的 Fork 和我们的主分支有数十甚至上百个不同的 commit 。如果出现这种情况，可以考虑以下两种解决方案：
 
 1. 如果对git不太熟悉，建议（在备份完成后）先删除你的项目，重新 fork 、上传并重新提交 PR 。
 2. 如果对git及其工作原理较为熟悉（而且愿意花费时间和流量折腾），可以尝试在 fork 出的项目上进行 rebase 以消除与主分支在历史上的冲突。
 
-### 警告|Warning
+### 警告 | Warning
 
 下列内容为不适合上传的内容。如果你认为缺少这些资料将会影响资源的完整性，请优先考虑放在校内资源平台，或联系你的教师并由教师发布。建议你撰写一个 README 文档并放置一些链接或指引文字来帮助找到这些资源。
 
@@ -152,7 +152,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 如果你认为本仓库的一些文件侵犯了您的权益，请 [向我们发送邮件](mailto:tech@zjuqsc.com) 。我们将会从仓库中彻底清除这些文件。
 
-## 许可|License
+## 许可 | License
 
 由贡献者编写部分的许可如下：
 
@@ -162,7 +162,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 其他部分的版权归属于其各自的作者。
 
-## 参考项目|Project
+## 参考项目 | Project
 
 >[QSCTech/zju-icicles: 浙江大学课程攻略共享计划 (github.com)](https://github.com/QSCTech/zju-icicles)
 >
